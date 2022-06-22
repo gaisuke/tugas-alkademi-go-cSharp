@@ -1,9 +1,11 @@
-package main
+package constants
 
 import (
 	"fmt"
 	"math"
 )
+
+const s string = "constant"
 
 func constantsPackage() {
 	fmt.Println("======================")

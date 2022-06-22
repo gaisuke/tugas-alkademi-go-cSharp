@@ -4,8 +4,6 @@ import (
 	"fmt"
 )
 
-const s string = "constant"
-
 func main() {
 	fmt.Println("======================")
 	// Hello World
@@ -13,7 +11,7 @@ func main() {
 
 	valuesPackage()
 	variablesPackage()
-	constantsPackage()
+	// constantsPackage()
 	forPackage()
 	ifElsePackage()
 	switchPackage()
