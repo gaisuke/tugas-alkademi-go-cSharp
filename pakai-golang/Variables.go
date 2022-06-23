@@ -19,4 +19,7 @@ func variablesPackage() {
 
 	f := "apple"
 	fmt.Println(f)
+
+	g := [5]int{2,4,5,3,6}
+	fmt.Println("array :", g)
 }
