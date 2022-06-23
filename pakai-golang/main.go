@@ -11,7 +11,7 @@ func main() {
 
 	valuesPackage()
 	variablesPackage()
-	// constantsPackage()
+	constantsPackage()
 	forPackage()
 	ifElsePackage()
 	switchPackage()
